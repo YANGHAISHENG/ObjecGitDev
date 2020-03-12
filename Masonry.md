@@ -12,3 +12,5 @@ branch6.0 -first commit
 branch6.0 -second commit
 branch8.0 -first commit
 branch8.0 -second commit
+branch7.0 -first commit
+branch7.0 -second commit
